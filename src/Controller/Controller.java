@@ -8,7 +8,7 @@ import adminview.Student;
 
 public class Controller {
 	DataBase db;
-//
+////
 	public Controller()  {
 		db = new DataBase();
 	}
